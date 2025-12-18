@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"SecurityHelperTest::testSanitization":0.004,"SecurityHelperTest::testCsrfTokenGeneration":0.001,"SecurityHelperTest::testValidateUrl":0}}

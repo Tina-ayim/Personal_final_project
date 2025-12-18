@@ -1,0 +1,5 @@
+config_db.php
+/vendor
+/.idea
+/.vscode
+*.log
