@@ -1,8 +1,8 @@
 <?php
-$servername = "sql212.infinityfree.com";
-$username = "if0_40646269";
-$password = "2aM3Qu5h7eelkT";
-$dbname = "if0_40646269_rental_platform";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "rental_platform";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
